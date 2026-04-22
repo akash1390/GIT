@@ -37,6 +37,18 @@ Command to see all commit history of currnet branch
 >>> git log
 
 ##########################################
-Command to initalize the git repository
+Command to set the url of our remote git to our origin variable
 ##########################################
+>>> git remote set-url origin git@github.com:akash1390/GIT.git
 
+#to check the origin variable value
+>>> git remote -v
+
+##########################################
+Command to push the local changes to remote GITHUB 
+##########################################
+>>> git push origin main
+
+##########################################
+Command to 
+##########################################
