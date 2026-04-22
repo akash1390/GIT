@@ -50,5 +50,6 @@ Command to push the local changes to remote GITHUB
 >>> git push origin main
 
 ##########################################
-Command to 
+Command to pull the recent files from the mail or GITHUB
 ##########################################
+git pull origin main
