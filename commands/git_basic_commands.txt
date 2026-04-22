@@ -36,6 +36,8 @@ Command to see all commit history of currnet branch
 ##########################################
 >>> git log
 
+>>> git log --oneline
+
 ##########################################
 Command to set the url of our remote git to our origin variable
 ##########################################
@@ -53,3 +55,18 @@ Command to push the local changes to remote GITHUB
 Command to pull the recent files from the mail or GITHUB
 #########################################
 >>> git pull origin main
+
+##########################################
+Command to 
+#########################################
+
+
+##########################################
+Command to pull the recent files from the mail or GITHUB
+#########################################
+
+
+##########################################
+Command to pull the recent files from the mail or GITHUB
+#########################################
+
