@@ -57,7 +57,8 @@ Command to pull the recent files from the mail or GITHUB
 >>> git pull origin main
 
 ##########################################
-Command to 
+Notes : we can also push the dev or other branches to the github
+and that can be reviewed by anyother team as collaborator
 #########################################
 
 
