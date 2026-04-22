@@ -63,9 +63,11 @@ and that can be reviewed by anyother team as collaborator
 
 
 ##########################################
-Command to pull the recent files from the mail or GITHUB
+Command to to merge and rebase
 #########################################
+>>> git rebase main  # you have to be on the child branch
 
+>>> git merge dev # you have to be in the maine barnch
 
 ##########################################
 Command to pull the recent files from the mail or GITHUB
