@@ -1,42 +1,40 @@
 ##########################################
 Command to initalize the git repository
 ##########################################
-git init 
+>>> git init 
 
 ##########################################
 Command to add a file to git repo
 ##########################################
-git add <file_name>
+>>> git add <file_name>
 
 ##########################################
 Command to check status of  files
 ##########################################
-git status
+>>> git status
 
 ##########################################
 Command to switch and create a new branch
 ##########################################
-git checkout -b <branch_name>   
+>>> git checkout -b <branch_name>   
 
 with below command we can change the branch if exisit from before
 
-git checkout <branch_name>
+>>> git checkout <branch_name>
 
 also we have one more command that can switch the branch
 
-git switch <branch_name>
+>>> git switch <branch_name>
 
 ##########################################
-Command to initalize the git repository
+Command to list all the branches
 ##########################################
-
-
+>>> git branch
 
 ##########################################
-Command to initalize the git repository
+Command to see all commit history of currnet branch
 ##########################################
-
-
+>>> git log
 
 ##########################################
 Command to initalize the git repository
