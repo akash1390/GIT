@@ -74,4 +74,6 @@ Command to pull the recent files from the mail or GITHUB
 #########################################
 >>> git stash  # will let you save your incommited changes and so we can parallely work on other task and this task is where it was
 
+>>> git cherry-pick <commit id>
+
 
