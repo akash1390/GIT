@@ -76,4 +76,18 @@ Command to pull the recent files from the mail or GITHUB
 
 >>> git cherry-pick <commit id>
 
+##########################################
+Command to pull the recent files from the mail or GITHUB
+#########################################
+
+>>> git merge dev --squash  # to merge 10 commits as one commit while merging to keep main clean
+
+>> git revert < commit id> #undo my work
+
+>> git reset --soft <commit-id>  # commit history wipe out with out cn=oncerning if working dir
+
+>> git reset --mixed <commit-id> # will delete commit id, working tree will remain 
+
+>> git reset  -hard <commit-id>  # will delete commit id plus files
+
 
